@@ -1,0 +1,67 @@
+hr {
+
+    border: dashed .2px;
+    margin-bottom: 1rem;
+    margin-top: none;
+}
+
+h5{
+    margin-bottom: 2rem;
+    color: #000;
+}
+
+#total1{
+
+    text-align: end;
+}
+
+input[type="number"] {
+    width: 50px;
+
+}
+
+tr.disabled{
+    background: #c1c1c1;
+}
+.dataTables_empty {
+    display:none;
+  }
+  
+.requested-btn{
+
+    display:inline-block;
+}
+
+.btn-tool{
+
+    color: mediumvioletred;
+
+}
+
+#preview-image{
+
+    border: solid 1px #c1c1c1;
+    width: 50px;
+    min-height: 50px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: #c1c1c1;
+}
+
+#dot-izq{
+
+    border: dashed 1px #fff; 
+}
+
+.resizetd{
+     height: 200%;
+}
+
+#hola span{
+
+    background-color: red;
+    display: inline-block;
+}
